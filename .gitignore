@@ -13,3 +13,13 @@ results
 
 npm-debug.log
 node_modules
+
+# folders
+build
+.tmp
+api
+assets
+config
+
+# files
+grunt/.nodemonignore

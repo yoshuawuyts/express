@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"merge",
+				"mergeConflict"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"cou",
+				"counter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 70.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Strapdown.js Markdown: Preview in a browser"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Yoshua/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/utilities/base.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/utilities/grid.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-grid/grid.min.css",
+		"/C/Users/Yoshua/Documents/GitHub/generator-piglet/app/index.js",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/utilities/position.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/micro/forms.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/utilities/colors.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/utilities/media.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/index.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/micro/colors.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/colors.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/bower.json",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/README.md",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/.bowerrc",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/micro/buttons.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/macro/feedback.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/macro/dialogs.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/micro/typography.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/micro/tables.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/micro/progress.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/micro/navigation.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/micro/images.styl",
+		"/C/Users/Yoshua/Documents/GitHub/anchor-css/micro/animations.styl",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/.csslintrc",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/assets/views/index.jade",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/api/routes.js",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/assets/styles/index.styl",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/Gruntfile.js",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/grunt/connect.js",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/app.js",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/assets/views/results.jade",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/grunt/open.js",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/grunt/karma.js",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/grunt/watch.js",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/grunt/concurrent.js",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/.gitignore",
+		"/C/Users/Yoshua/Documents/GitHub/piglet/grunt/node-inspector.js",
+		"/C/Users/Yoshua/Documents/GitHub/piglet/package.json",
+		"/C/Users/Yoshua/Documents/GitHub/piglet/api/app.js",
+		"/C/Users/Yoshua/Documents/GitHub/history.txt",
+		"/F/Dropbox/cs50/pset6/huffile.c",
+		"/F/Dropbox/cs50/pset6/huffile.h",
+		"/F/Dropbox/cs50/pset6/section7/binary_tree.c",
+		"/F/Dropbox/cs50/pset5/dictionary.c",
+		"/C/Users/Yoshua/Documents/GitHub/generator-blog/app/templates/gitignore",
+		"/C/Users/Yoshua/Documents/GitHub/generator-blog/app/templates/bowerrc",
+		"/C/Users/Yoshua/Google Drive/Versity/data_models.yaml",
+		"/C/Users/Yoshua/Downloads/data_models.yaml",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/config/routes.js",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/views/home/vote.jade",
+		"/C/Users/Yoshua/Downloads/calendar",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/views/home/login.jade",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/views/home/results.jade",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/views/layout.jade",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/.bowerrc",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/server.js",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/app/views/index.jade",
+		"/C/Users/Yoshua/Documents/GitHub/fabsmots/app/scripts/app.js",
+		"/C/Users/Yoshua/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Yoshua/Documents/GitHub/onion/styles/utilities/normalize.styl",
+		"/C/Users/Yoshua/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/C/Users/Yoshua/Dropbox/cs50/pset5/speller.c"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rem",
+			"//",
+			"rem",
+			"flex-basis",
+			"items",
+			"align",
+			".",
+			"flex-direction",
+			"figure",
+			"Media",
+			"}",
+			"{",
+			";",
+			"box",
+			"struct",
+			"ejs",
+			"main.html",
+			"api/index.js",
+			"index.js",
+			"var app = express",
+			"banana",
+			"@extend .lbutton",
+			".buttonl",
+			"button-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "express.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
