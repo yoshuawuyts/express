@@ -7,7 +7,7 @@ var app      = express();
 var port     = process.env.PORT || 1337;
 var mongoose = require('mongoose');
 var passport = require('passport');
-var flash 	 = require('connect-flash');
+var flash	   = require('connect-flash'); 
 
 var configDB = require('./config/database.js');
 
@@ -21,6 +21,8 @@ app.configure(function() {
 	app.use(express.cookieParser()); // read cookies
 	app.use(express.bodyParser()); // get information from html forms
 
+  // set up views
+  app.set('views', __dirname + '/assets/views');
 	app.set('view engine', 'jade'); // set the views
 
 	// required for passport

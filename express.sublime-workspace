@@ -68,7 +68,14 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Yoshua/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/Yoshua/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Yoshua/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Yoshua/Documents/GitHub/express/app/routes.js",
+		"/C/Users/Yoshua/Documents/GitHub/express/package.json",
+		"/C/Users/Yoshua/Documents/GitHub/express/README.md",
+		"/C/mongodb/mongod.cfg",
+		"/C/Users/Yoshua/Documents/GitHub/express/.gitignore",
 		"/C/Users/Yoshua/Documents/GitHub/anchor-css/utilities/base.styl",
 		"/C/Users/Yoshua/Documents/GitHub/anchor-css/utilities/grid.styl",
 		"/C/Users/Yoshua/Documents/GitHub/anchor-grid/grid.min.css",
@@ -149,6 +156,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"helle",
 			"rem",
 			"//",
 			"rem",
