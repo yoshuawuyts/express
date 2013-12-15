@@ -1,0 +1,23 @@
+html
+  head
+    title node authentication
+
+  body
+
+    h1 Signup
+
+    form(action='/signup', method='post')
+      label email
+      input(type='text', name='email')
+
+      label password
+      input(type='password', name='password')
+
+      button(type='submit') Signup
+
+    p 
+    | Already have an account
+    a(href='/login') Login
+    |  or go 
+    a(href='/') Home 
+    |.
