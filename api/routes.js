@@ -31,6 +31,20 @@ module.exports = function (app, passport) {
     req.logout();
     res.redirect('/');
   });
+
+  // process the signup form
+  app.post('/signup', passport.authenticate('local-signup', {
+    successRedirect: '/profile', // redirect to the secure profile section
+    failureRedirect: '/signup', // redirect back to the signup page if there is an error
+    failureFlash: true // allow flash messages
+  }));
+
+  // process the login form
+  app.post('/login', passport.authenticate('local-login', {
+    successRedirect: '/profile', // redirect to the secure profile section
+    failureRedirect: '/login', // redirect back to the signup page if there is an error
+    failureFlash: true // allow flash messages
+  }));
 };
 
 // route middleware to assure user is logged in
@@ -41,5 +55,5 @@ function isLoggedIn(req, res, next) {
   }
 
   // else redirect
-  res.redicrect('/');
+  res.redirect('/');
 }

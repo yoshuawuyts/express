@@ -21,3 +21,4 @@ config
 
 # files
 grunt/.nodemonignore
+config/database.js

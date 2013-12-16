@@ -9,10 +9,8 @@ module.exports = {
       env: {
         PORT: '1337',
       },
-      file: 'app.js',
-      legacyWatch: true,
+      file: 'server.js',
       nodeArgs: ['--debug'],
-      watchedFolders: ['./', 'api/'],
     }
   },
 };

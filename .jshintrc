@@ -2,7 +2,10 @@
   "globals": {
     "module": true,
     "define": true,
-    "angular": true
+    "angular": true, 
+    "app": true, 
+    "passport": true, 
+    "next": true
   },
   "browser": true,
   "bitwise": true,
