@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "express": "~3.4.4",
-    "mongoose": "~3.8.1",
+    "mongoose": "~4.11.14",
     "passport": "~0.1.17",
     "passport-local": "~0.1.6",
     "passport-facebook": "~1.0.2",
